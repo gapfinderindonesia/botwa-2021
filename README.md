@@ -19,11 +19,11 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/XP-TN/XPTNNBOTV
+> git clone https://github.com/gapfinderindonesia/botwa-2021
 ```
 
 ```bash
->Command BOT $
+>Command BOT /
 ```
 
 ## Install the dependencies:
@@ -31,7 +31,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd XPTNNBOT
+> cd botwa-2021
 > bash install.sh
 ```
 
@@ -73,11 +73,10 @@ you've just cloned!!
 |       ✅        |   Clear All Chats                |
 
 ## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* DANDI_SAPUTRA
 
 
 ## Group
 * [`WhatsApp`](Error waiting)
 ### Donate
-* [`Saweria`](https://saweria.co/donate/agung1)
+* [`Saweria`](https://saweria.co/DandiSaputra)
